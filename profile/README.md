@@ -1,6 +1,13 @@
-## Here we are! / Да, это наши репозитории! 🙌
+## RNDSOFT / Software development / Ruby-on-Rails
 
 Будем стараться побольше открывать наших наработок в области Ruby и не только :)
+
+### Our projects / Наши проекты 🥇
+
+Винвестор: [winvestor.ru](https://winvestor.ru/?utm_source=github&utm_medium=post&utm_campaign=main) <br>
+Советники: [sovetnik.io](https://sovetnik.io/?utm_source=github&utm_medium=post&utm_campaign=main) <br>
+ЕСИА финанс: [esiafinance.ru](https://esiafinance.ru/?utm_source=github&utm_medium=post&utm_campaign=main) <br>
+Агредатор: [agredator.ru](https://docs.agredator.ru/?utm_source=github&utm_medium=post&utm_campaign=main) <br>
 
 ### How to reach us / Контакты 📫
 
@@ -11,3 +18,6 @@ Dev.to: rnds - https://dev.to/rnds - it is alive? <br>
 Twitter: [#rndsoft](https://twitter.com/hashtag/RNDSOFT?src=hashtag_click) - our little things <br>
 Site: [RNDSOFT](https://rnds.pro/?utm_source=github&utm_medium=post&utm_campaign=main) -  Software development / Ruby-on-Rails
 
+### Here we are! / Да, это мы! 🙌
+
+![rndsoft](https://user-images.githubusercontent.com/1270997/138438013-8aa61cb2-d290-497c-9016-317ac7f6dae4.jpg)
