@@ -15,7 +15,7 @@ Site: [RNDSOFT](https://rnds.pro/?utm_source=github&utm_medium=post&utm_campaign
 
 ### Here we are! / Да, это мы! 🙌
 
-![rndsoft](https://github.com/user-attachments/assets/2773fdd2-7d83-408e-b642-a8e50be109f7)
+![rndsoft](https://github.com/user-attachments/assets/2697d61c-ff0d-4ea9-8296-79736b5ca231)
 
 ### Our projects / Наши проекты 🥇
 
