@@ -14,11 +14,6 @@ Site: [RNDSOFT](https://rnds.pro/?utm_source=github&utm_medium=post&utm_campaign
 [![ChannelRuby](https://lysander.rnds.pro/api/v1/badgen/channel/@RubyDevTalks/orange?icon=ruby&label=channel)](https://t.me/rndruby)
 
 
-~~Facebook: [@rndsoftrostov](https://www.facebook.com/rndsoftrostov/)~~ - social contacts <br>
-~~Instagram: [rnd_soft](https://www.instagram.com/rnd_soft/)~~ - our life <br>
-~~Twitter: [#rndsoft](https://twitter.com/hashtag/RNDSOFT?src=hashtag_click)~~ - our little things <br>
-
-
 ### Here we are! / Да, это мы! 🙌
 
 <img src="https://github.com/user-attachments/assets/2697d61c-ff0d-4ea9-8296-79736b5ca231" data-canonical-src="https://github.com/user-attachments/assets/2697d61c-ff0d-4ea9-8296-79736b5ca231" style="max-width:100%" />
