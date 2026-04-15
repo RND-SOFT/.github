@@ -10,8 +10,8 @@ Teletype: [blog.rnds.pro](https://blog.rnds.pro/?utm_source=github&utm_medium=po
 Dev.to: rnds - https://dev.to/rnds - it is alive? <br>
 Site: [RNDSOFT](https://rnds.pro/?utm_source=github&utm_medium=post&utm_campaign=main) -  Software development / Ruby-on-Rails
 
-[![Channel](https://img.shields.io/static/v1?label=telegram&message=@rndsoft&color=blue&logo=telegram&logoColor=white)](https://t.me/rndsoft)
-[![ChannelRuby](https://img.shields.io/static/v1?label=channel&message=@RubyDevTalks&color=orange&logo=ruby)](https://t.me/rndruby)
+[![Channel](https://lysander.rnds.pro/api/v1/badgen/telegram/@rndsoft/blue?icon=telegram&label=telegram)](https://t.me/rndsoft)
+[![ChannelRuby](https://lysander.rnds.pro/api/v1/badgen/channel/@RubyDevTalks/orange?icon=ruby&label=channel)](https://t.me/rndruby)
 
 
 ~~Facebook: [@rndsoftrostov](https://www.facebook.com/rndsoftrostov/)~~ - social contacts <br>
@@ -32,11 +32,10 @@ Site: [RNDSOFT](https://rnds.pro/?utm_source=github&utm_medium=post&utm_campaign
 Агредатор: [agredator.ru](https://docs.agredator.ru/?utm_source=github&utm_medium=post&utm_campaign=main) <br>
 
 
-### Наши зеркала
+### Наши зеркала 
+ 
+[![Github](https://lysander.rnds.pro/api/v1/badgen/github/@RND-SOFT/green?icon=git&label=Github)](https://github.com/RND-SOFT)
+[![Gitflic](https://lysander.rnds.pro/api/v1/badgen/github/@RNDSOFT/blue?icon=git&label=Gitflic)](https://gitflic.ru/company/rndsoft)
+[![Gitverse](https://lysander.rnds.pro/api/v1/badgen/github/@RNDSOFT/purple?icon=git&label=Gitverse)](https://gitverse.ru/rndsoft)
 
-[![Github](https://img.shields.io/static/v1?label=Github&message=@RND-SOFT&color=green&logo=git&logoColor=white)](https://github.com/RND-SOFT)
-[![Gitflic](https://img.shields.io/static/v1?label=Gitflic&message=@RNDSOFT&color=blue&logo=git&logoColor=white
-)](https://gitflic.ru/company/rndsoft)
-[![Gitverse](https://img.shields.io/static/v1?label=Gitverse&message=@RNDSOFT&color=purple&logo=git&logoColor=white
-)](https://gitverse.ru/rndsoft)
 
