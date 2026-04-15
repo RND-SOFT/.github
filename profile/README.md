@@ -10,8 +10,8 @@ Teletype: [blog.rnds.pro](https://blog.rnds.pro/?utm_source=github&utm_medium=po
 Dev.to: rnds - https://dev.to/rnds - it is alive? <br>
 Site: [RNDSOFT](https://rnds.pro/?utm_source=github&utm_medium=post&utm_campaign=main) -  Software development / Ruby-on-Rails
 
-[![Channel](https://img.shields.io/static/v1?label=telegram&message=@rndsoft&color=blue&logo=telegram&logoColor=white)](https://t.me/rndsoft)
-[![ChannelRuby](https://img.shields.io/static/v1?label=channel&message=@RubyDevTalks&color=orange&logo=ruby)](https://t.me/rndruby)
+[![Channel](https://lysander.rnds.pro/api/v1/badgen/telegram/@rndsoft/blue?icon=telegram&label=telegram)](https://t.me/rndsoft)
+[![ChannelRuby](https://lysander.rnds.pro/api/v1/badgen/channel/@RubyDevTalks/orange?icon=ruby&label=channel)](https://t.me/rndruby)
 
 
 ~~Facebook: [@rndsoftrostov](https://www.facebook.com/rndsoftrostov/)~~ - social contacts <br>
